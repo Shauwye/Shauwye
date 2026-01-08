@@ -34,7 +34,6 @@ I’m a Software Engineering student with a strong focus on full stack web devel
 - Develop full stack applications (frontend + backend)  
 - Design and implement clean architectures (MVC, DAO/DTO, REST)  
 - Build academic systems with persistence, file handling, and business logic  
-- Prototype gameplay systems and mechanics in Godot  
 - Experiment with algorithms, data structures, and performance
 
 ## 🌱 Currently Learning
@@ -48,5 +47,4 @@ I’m a Software Engineering student with a strong focus on full stack web devel
 Here you will find:
 - University assignments and laboratory projects  
 - Full stack web applications  
-- Game prototypes and experiments in Godot  
 - Data structures and algorithm implementations  
