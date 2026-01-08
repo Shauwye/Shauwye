@@ -27,6 +27,8 @@ I’m a Software Engineering student with a strong focus on full stack web devel
 **Game Development:**  
 - Godot (2D)
 
+--- 
+
 ## 🚀 What I Do
 
 - Develop full stack applications (frontend + backend)  
