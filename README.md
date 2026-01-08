@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi there, I'm Daniel
 
-<!--
-**Shauwye/Shauwye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student | Full Stack Developer**
 
-Here are some ideas to get you started:
+I’m a Software Engineering student with a strong focus on full stack web development and solid software engineering fundamentals. I work on academic projects, personal experiments, and small prototypes—often handling multiple projects in parallel. I’m also actively exploring **game development with Godot**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+**Languages:**  
+- Java  
+- JavaScript  
+- Python  
+
+**Frontend:**  
+- Vue.js  
+- React  
+
+**Backend:**  
+- Java (REST APIs)  
+- Node.js  
+
+**Databases:**  
+- MySQL  
+
+**Game Development:**  
+- Godot (2D)
+
+## 🚀 What I Do
+
+- Develop full stack applications (frontend + backend)  
+- Design and implement clean architectures (MVC, DAO/DTO, REST)  
+- Build academic systems with persistence, file handling, and business logic  
+- Prototype gameplay systems and mechanics in Godot  
+- Experiment with algorithms, data structures, and performance
+
+## 🌱 Currently Learning
+
+- Advanced Godot (state machines, UI systems, architecture)  
+- Linux (system usage, scripting, environment management)  
+- Web Security (authentication, OWASP basics, secure APIs)
+
+## 📂 Projects
+
+Here you will find:
+- University assignments and laboratory projects  
+- Full stack web applications  
+- Game prototypes and experiments in Godot  
+- Data structures and algorithm implementations  
