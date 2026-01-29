@@ -24,9 +24,6 @@ I’m a Software Engineering student with a strong focus on full stack web devel
 **Databases:**  
 - MySQL  
 
-**Game Development:**  
-- Godot (2D)
-
 --- 
 
 ## 🚀 What I Do
@@ -38,7 +35,6 @@ I’m a Software Engineering student with a strong focus on full stack web devel
 
 ## 🌱 Currently Learning
 
-- Advanced Godot (state machines, UI systems, architecture)  
 - Linux (system usage, scripting, environment management)  
 - Web Security (authentication, OWASP basics, secure APIs)
 
